@@ -1,0 +1,123 @@
+a=2
+x=1+(a*=2)
+
+1+(2*=2)
+
+a=2*2;
+4+1
+
+x= 5
+a= 4
+prompt : it is used to take user input it will not work on console
+ it is a browser object
+
+Q-1.
+document.write("what is the official name of javascript ?")
+user input answer : prompt //
+
+input : matches ECMAScript 
+
+return correct answer
+
+if not then return your answer is incorrect.
+
+Q.2 find greatest among three numbers using else if ladder using variables a,b,c;
+
+Q.3 greater than 90 return a grade 
+
+marks > 90 && marks < 100
+810073816057
+a grade 
+
+Ternary operator : 
+
+conditon ? "expression 1" : "expression 2";
+==============================================
+Loops : to perform repeated task
+
+1.for
+Syntax : for(initialization; end condition; inc/dec)
+
+2.while :
+Syntax : 
+intiallization;
+
+while(condtition){
+inc/dec
+}
+
+3.do-while : 
+
+initialization;
+
+do{
+inc/dec;
+}while(condition);
+
+Q-1. 
+Take an integer from user using prompt.
+Check whether it is even or odd and display the output;
+
+
+Q-2. Using do-while print even and odd numbers.
+
+Q-3. Using loop print multiple of number which user will decide.
+
+user chooses 2 ;
+
+then 
+
+output will be : 2*1=2........2*10=20
+
+Q-4. Using loop print Prime Numbers till 50.
+
+
+====================================================================
+
+input box;
+submit button;
+====================================================================
+Function : it is a block of code which executes only when it is called
+
+1.Simple function : a simply declared function /method
+
+2.Parameterised function : when we pass some parameters or arguments to a simple function
+then it is called as parameterised function
+
+3.Arrow function : Arrow function is a short hand to write a function.
+
+4.Return function : when a function returns some particular value then the function is 
+called as return function.
+--------------------------------------------------------------------------------------------
+
+Q-1. using function age user input using input box
+check whter greater than 18 - eligible
+
+else not eligible.
+
+Q-2. do all arithematic operations using parameterised function
+add(a,b)
+sub(a,b).
+
+
+Q-3. create a parameterised function which returns power of a number
+2*2*2=8-output
+
+pow(x,n)
+
+number = x
+power = n
+
+x*n-times
+
+3=x
+2=n
+3*3
+
+
+
+
+
+
+
+
